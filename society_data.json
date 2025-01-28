@@ -1,0 +1,13 @@
+{
+    "owners": [
+        {
+            "id": 1,
+            "name": "ajay",
+            "flat_number": "1",
+            "phone": "0987654321",
+            "maintenance": []
+        }
+    ],
+    "expenses": [],
+    "funds": 1212.0
+}
